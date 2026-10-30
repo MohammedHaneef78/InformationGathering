@@ -64,21 +64,41 @@ https://web.archive.org/
 # Webserver Fingerprinting:
 
 ## Netcat:
-sudo nc example.com 80
+```sudo nc example.com 80
 GET / HTTP/1.1
 Host: example.com
+```
+
+### Output
+
+<img width="1421" height="605" alt="image" src="https://github.com/user-attachments/assets/b989777e-ca7b-4c0b-8a20-8573983511d3" />
 
 
 
 ## nmap:
-###output
+```
+nmap -sL chatgpt.com
+```
+
+### Output
+
+<img width="870" height="210" alt="image" src="https://github.com/user-attachments/assets/7f1bbafb-40cc-4770-8cc2-db3e37adc947" />
 
 
-## Whatweb
+## Whatweb:
+```
+whatweb https://chatgpt.com
+```
+
 ### output
 
+<img width="1906" height="285" alt="image" src="https://github.com/user-attachments/assets/f9abbc7c-21da-44ad-bbfe-69ace4a75dac" />
 
-## httprint
+
+## httprint:
+
+
+
 ### output
 
 
