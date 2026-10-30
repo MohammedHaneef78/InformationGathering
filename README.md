@@ -96,29 +96,45 @@ whatweb https://chatgpt.com
 
 
 ## httprint:
-
+```
+httprint -h 127.0.0.1 -s /usr/share/httprint/signatures.txt -P0 -t 30000
+```
 
 
 ### output
 
+<img width="1136" height="801" alt="image" src="https://github.com/user-attachments/assets/f597763c-f554-47eb-b2d0-664033df41d0" />
 
 
 
 # Tracing the Location
+
 TCP Traceroute:
+
 sudo traceroute -T www.google.com
-## output
+
+### output
+
+<img width="1232" height="792" alt="image" src="https://github.com/user-attachments/assets/2aa0daa3-cceb-436d-869b-6850b6040375" />
 
 
 ## UDP Traceroute:
+
 sudo traceroute -U www.google.com
+
 ## output
+
+<img width="992" height="175" alt="image" src="https://github.com/user-attachments/assets/e9272c61-8b8b-4d2c-83d2-5e00c3e2e04a" />
 
 
 
 ## ICMP Traceroute:
+
 sudo traceroute  www.google.com
+
 ## output
+
+<img width="995" height="121" alt="image" src="https://github.com/user-attachments/assets/2da41998-6bf4-4a3f-a1bc-1b018bd1a045" />
 
 
 
