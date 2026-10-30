@@ -29,22 +29,36 @@ http://www.whois.com/whois website to get detailed information about a domain na
 
 ## OUTPUT:
 
+<img width="1881" height="867" alt="image" src="https://github.com/user-attachments/assets/db008877-6676-42fd-92b3-da83df00c001" />
+
 
 ## Finding IP address:
+
 ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of facebook.com.
-##output
+
+## output
+
+<img width="900" height="358" alt="image" src="https://github.com/user-attachments/assets/bf4b00eb-1de2-49b7-9771-c212726cf8ab" />
+
 
 
 
 ## Finding Hosting Company
+
 get further detail by using ip2location.com website.
-##output
+## output
+
+<img width="1895" height="855" alt="image" src="https://github.com/user-attachments/assets/46f22c3a-e734-47cb-ba65-6ebc87297bd3" />
+
 
 
 
 ## History of the website:
+
 ## output
 https://web.archive.org/
+
+<img width="1891" height="855" alt="image" src="https://github.com/user-attachments/assets/f2f1872c-7a17-4a50-b8bf-71d8583d6bca" />
 
 
 # Webserver Fingerprinting:
